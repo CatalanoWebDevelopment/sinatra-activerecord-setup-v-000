@@ -1,2 +1,2 @@
 require './config/environment'
-require 'sinatra/activerecord/rake'ß
+require 'sinatra/activerecord/rake'
